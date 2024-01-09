@@ -29,10 +29,10 @@ Replace your-discord-bot-token with your bot's token obtained from the Discord D
 ### **Usage:**  
 Once the bot is running and added to your Discord server, use the following commands:
 
-!play <YouTube URL>: Plays music from the provided YouTube link.
-!pause: Pauses the currently playing music.
-!resume: Resumes the paused music.
-!stop: Stops the music and clears the queue.
-!ball for magic 8ball
-!join to join the current voice channel
-!leave to leave the voice channel
+!play <YouTube URL>: Plays music from the provided YouTube link.  
+!pause: Pauses the currently playing music.  
+!resume: Resumes the paused music.  
+!stop: Stops the music and clears the queue.  
+!ball for magic 8ball  
+!join to join the current voice channel  
+!leave to leave the voice channel  
